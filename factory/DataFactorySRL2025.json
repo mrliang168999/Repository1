@@ -1,0 +1,9 @@
+{
+	"name": "DataFactorySRL2025",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2754bfab-12d7-4ae3-ba1e-2e69766af834",
+		"tenantId": "3240f35d-44e3-4903-9e1a-9ae703a71d43"
+	}
+}

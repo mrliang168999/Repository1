@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "DataFactorySRL2025"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage720_properties_privateLinkResourceId": {
+			"value": "/subscriptions/605517f3-8021-4db7-bd11-557d08903712/resourceGroups/ResourceGroupName/providers/Microsoft.Storage/storageAccounts/dbstoragesdyuid6oiivew"
+		},
+		"AzureBlobStorage720_properties_groupId": {
+			"value": "blob"
+		}
+	}
+}
